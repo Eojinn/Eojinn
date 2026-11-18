@@ -1,9 +1,9 @@
 <!-- ═══════════════════════  BOOT SEQUENCE  ═══════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,50:3b0000,100:8b0000&text=EOJINN&fontSize=80&fontColor=e0e0e0&fontAlign=50&fontAlignY=45&stroke=8b0000&strokeWidth=2&desc=S%20U%20R%20V%20I%20V%20A%20L%20%20%20L%20O%20G&descSize=18&descAlignY=72&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,50:3b0000,100:8b0000&text=EOJIN%20KIM&fontSize=72&fontColor=e0e0e0&fontAlign=50&fontAlignY=45&stroke=8b0000&strokeWidth=2&desc=S%20U%20R%20V%20I%20V%20A%20L%20%20%20L%20O%20G&descSize=18&descAlignY=72&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Special+Elite&size=20&duration=3500&pause=900&color=B30000&center=true&vCenter=true&width=620&lines=%3E+LOADING+SUBJECT+DATA...;%3E+SUBJECT%3A+EOJINN+%E2%80%94+STATUS%3A+ALIVE;%3E+WARNING%3A+BUGS+DETECTED+IN+SECTOR+B;%3E+PRESS+ANY+KEY+TO+CONTINUE" alt="boot sequence"/>
+<img src="https://readme-typing-svg.demolab.com?font=Special+Elite&size=20&duration=3500&pause=900&color=B30000&center=true&vCenter=true&width=620&lines=%3E+LOADING+SUBJECT+DATA...;%3E+SUBJECT%3A+EOJIN+KIM+%E2%80%94+STATUS%3A+ALIVE;%3E+WARNING%3A+BUGS+DETECTED+IN+SECTOR+B;%3E+PRESS+ANY+KEY+TO+CONTINUE" alt="boot sequence"/>
 
 <br/>
 
@@ -22,7 +22,7 @@
 ┌──────────────────────────────────────────────────────────┐
 │  CLASSIFIED ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  LEVEL 3     │
 ├──────────────────────────────────────────────────────────┤
-│  NAME .......... Eojinn                                  │
+│  NAME .......... Eojin Kim                               │
 │  CLASS ......... Backend Developer                       │
 │                  Full-Stack Developer                    │
 │                  DevSecOps Operative                     │
@@ -49,6 +49,11 @@
 -               Building an all-in-one football (soccer) platform
 -               from the ground up.
 -               STATUS ........ IN PROGRESS
+
++ [MISSION 03]  🐧 Linux Master Lv.1 Certification (리눅스마스터 1급)
++               Training in the depths of the terminal.
++               Root access is the only way out.
++               STATUS ........ PREPARING
 ```
 
 > *"Every endpoint is a locked door. Every pipeline needs a key.*
@@ -78,6 +83,13 @@
 |:---:|:---:|:---:|:---:|:---:|
 | `07` | ![MySQL](https://img.shields.io/badge/MySQL-0d0d0d?style=for-the-badge&logo=mysql&logoColor=b30000) | | `08` | ![MariaDB](https://img.shields.io/badge/MariaDB-0d0d0d?style=for-the-badge&logo=mariadb&logoColor=b30000) |
 | `09` | ![Git](https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=b30000) | | `10` | ![AWS](https://img.shields.io/badge/AWS-0d0d0d?style=for-the-badge&logo=amazon&logoColor=b30000) |
+
+**🛡️ SURVIVAL GEAR — DevOps & Security**
+
+| SLOT | ITEM | | SLOT | ITEM |
+|:---:|:---:|:---:|:---:|:---:|
+| `11` | ![Linux](https://img.shields.io/badge/Linux-0d0d0d?style=for-the-badge&logo=linux&logoColor=b30000) | | `12` | ![Docker](https://img.shields.io/badge/Docker-0d0d0d?style=for-the-badge&logo=docker&logoColor=b30000) |
+| `13` | ![Postman](https://img.shields.io/badge/Postman-0d0d0d?style=for-the-badge&logo=postman&logoColor=b30000) | | `14` | ![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-0d0d0d?style=for-the-badge&logo=owasp&logoColor=b30000) |
 
 <sub>※ 아이템을 조합하면 새로운 프로젝트가 생성됩니다</sub>
 
