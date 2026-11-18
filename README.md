@@ -23,8 +23,9 @@
 │  CLASSIFIED ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  LEVEL 3     │
 ├──────────────────────────────────────────────────────────┤
 │  NAME .......... Eojinn                                  │
-│  UNIT .......... [ 소속 / 학교 / 팀 ]                       │
-│  ROLE .......... [ 예: Backend Developer ]                │
+│  CLASS ......... Backend Developer                       │
+│                  Full-Stack Developer                    │
+│                  DevSecOps Operative                     │
 │  LOCATION ...... Seoul, Republic of Korea                │
 │  STATUS ........ STILL ALIVE. STILL CODING.              │
 └──────────────────────────────────────────────────────────┘
@@ -36,15 +37,23 @@
 ---
 
 <!-- ═══════════════════════  FILE 002  ═══════════════════════ -->
-## 🩸 FILE 002 — RESEARCHER'S NOTES
+## 🩸 FILE 002 — ACTIVE MISSIONS
 
 ```diff
-- [DAY 01]  🔭 Currently investigating ......  [ 지금 진행 중인 프로젝트 ]
-- [DAY 07]  🌱 Specimen under study ..........  [ 지금 공부하는 것 ]
-- [DAY 13]  👯 Seeking fellow survivors for ..  [ 협업하고 싶은 분야 ]
-- [DAY 21]  💬 Ask me about ...................  [ 자신 있는 주제 ]
-+ [DAY 30]  ⚡ Fun fact ......................  [ 재밌는 사실 한 줄 ]
+- [MISSION 01]  🧟 Legacy Code Containment
+-               Old projects have mutated. Refactoring them back
+-               into a stable, maintainable form.
+-               STATUS ........ IN PROGRESS
+
+- [MISSION 02]  ⚽ Operation: Pitch
+-               Building an all-in-one football (soccer) platform
+-               from the ground up.
+-               STATUS ........ IN PROGRESS
 ```
+
+> *"Every endpoint is a locked door. Every pipeline needs a key.*
+> *Every dependency... might be infected."*
+> — DevSecOps field notes
 
 ---
 
@@ -55,11 +64,22 @@
 
 | SLOT | ITEM | | SLOT | ITEM |
 |:---:|:---:|:---:|:---:|:---:|
-| `01` | ![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=b30000) | | `02` | ![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=b30000) |
-| `03` | ![Git](https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=b30000) | | `04` | ![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=b30000) |
-| `05` | ![VS Code](https://img.shields.io/badge/VS%20Code-0d0d0d?style=for-the-badge&logo=visualstudiocode&logoColor=b30000) | | `06` | ![Empty](https://img.shields.io/badge/—%20EMPTY%20—-0d0d0d?style=for-the-badge) |
+**⚔️ WEAPONS — Languages**
 
-<sub>※ 빈 칸은 직접 쓰는 기술 스택 뱃지로 교체하세요 · 아이템을 조합하면 새로운 프로젝트가 생성됩니다</sub>
+| SLOT | ITEM | | SLOT | ITEM |
+|:---:|:---:|:---:|:---:|:---:|
+| `01` | ![Java](https://img.shields.io/badge/Java-0d0d0d?style=for-the-badge&logo=openjdk&logoColor=b30000) | | `02` | ![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=b30000) |
+| `03` | ![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=b30000) | | `04` | ![HTML](https://img.shields.io/badge/HTML-0d0d0d?style=for-the-badge&logo=html5&logoColor=b30000) |
+| `05` | ![CSS](https://img.shields.io/badge/CSS-0d0d0d?style=for-the-badge&logo=css&logoColor=b30000) | | `06` | ![React](https://img.shields.io/badge/React-0d0d0d?style=for-the-badge&logo=react&logoColor=b30000) |
+
+**🗝️ KEY ITEMS — Data & Infra**
+
+| SLOT | ITEM | | SLOT | ITEM |
+|:---:|:---:|:---:|:---:|:---:|
+| `07` | ![MySQL](https://img.shields.io/badge/MySQL-0d0d0d?style=for-the-badge&logo=mysql&logoColor=b30000) | | `08` | ![MariaDB](https://img.shields.io/badge/MariaDB-0d0d0d?style=for-the-badge&logo=mariadb&logoColor=b30000) |
+| `09` | ![Git](https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=b30000) | | `10` | ![AWS](https://img.shields.io/badge/AWS-0d0d0d?style=for-the-badge&logo=amazon&logoColor=b30000) |
+
+<sub>※ 아이템을 조합하면 새로운 프로젝트가 생성됩니다</sub>
 
 </div>
 
