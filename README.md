@@ -127,7 +127,7 @@
           YOUR PROGRESS HAS BEEN SAVED.
 ```
 
-<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/SEND%20TRANSMISSION-0d0d0d?style=for-the-badge&logo=gmail&logoColor=b30000"/></a>
+<a href="mailto:aj41212@email.com"><img src="https://img.shields.io/badge/SEND%20TRANSMISSION-0d0d0d?style=for-the-badge&logo=gmail&logoColor=b30000"/></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:8b0000,50:3b0000,100:000000" width="100%"/>
 
